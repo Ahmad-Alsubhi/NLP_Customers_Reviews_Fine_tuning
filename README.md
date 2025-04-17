@@ -37,27 +37,27 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 How to Run
+## 🚀 Build models
 
 1. **Classification**:
 
 ```bash
 cd classification
-python classify_reviews.py
+classify_reviews.ipynb
 ```
 
 2. **Clustering**:
 
 ```bash
 cd claster
-python cluster_analysis.py
+cluster_analysis.ipynb
 ```
 
 3. **Summarization**:
 
 ```bash
 cd summary
-python summarize_reviews.py
+summarize_reviews.ipynb
 ```
 
 4. **Deployment**:
@@ -81,6 +81,4 @@ Contributions are welcome! Feel free to fork the repository, make changes, and o
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
